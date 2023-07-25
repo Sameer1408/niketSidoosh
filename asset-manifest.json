@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0dab1a14.chunk.css",
+    "main.js": "/static/js/main.ce392fff.chunk.js",
+    "main.js.map": "/static/js/main.ce392fff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d5ae09b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d5ae09b0.js.map",
+    "static/js/2.7949f65f.chunk.js": "/static/js/2.7949f65f.chunk.js",
+    "static/js/2.7949f65f.chunk.js.map": "/static/js/2.7949f65f.chunk.js.map",
+    "static/js/3.7f901f06.chunk.js": "/static/js/3.7f901f06.chunk.js",
+    "static/js/3.7f901f06.chunk.js.map": "/static/js/3.7f901f06.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0dab1a14.chunk.css.map": "/static/css/main.0dab1a14.chunk.css.map",
+    "static/js/2.7949f65f.chunk.js.LICENSE.txt": "/static/js/2.7949f65f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/chef-with-his-arms-crossed-white-background-removebg-preview.3f2dafab.png",
+    "static/media/Logo3.8c07e4b9.png": "/static/media/Logo3.8c07e4b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5ae09b0.js",
+    "static/js/2.7949f65f.chunk.js",
+    "static/css/main.0dab1a14.chunk.css",
+    "static/js/main.ce392fff.chunk.js"
+  ]
+}
